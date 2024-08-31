@@ -1,5 +1,7 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on:<br>Private projects<br>👯 I’m looking to collaborate on: <br>Web & Software development projects, particularly in front-end, back-end, or full-stack roles.<br><br>🤝 I’m looking for help with:<br>Finding entry-level jobs and internships to kickstart my career in the tech industry.<br><br>🌱 I’m currently learning:<br>software  back-end development with Java, machine learning, and training models, especially in AI.<br><br>💬 Ask me about:<br>My work on web development, AI chatbot development, and the services I can offer in these areas.<br><br>⚡ Fun fact:<br>I'm a final-year IT student who enjoys blending creativity with technology, and I'm always excited to learn new things, especially when it comes to emerging tech!
+<br>🔭 I’m currently working on:<br>Private projects<br>👯 
+I’m looking to collaborate on:
+<br>Web & Software development projects, particularly in front-end, back-end, or full-stack roles.<br><br>🤝 I’m looking for help with:<br>Finding entry-level jobs and internships to kickstart my career in the tech industry.<br><br>🌱 I’m currently learning:<br>software  back-end development with Java, machine learning, and training models, especially in AI.<br><br>💬 Ask me about:<br>My work on web development, AI chatbot development, and the services I can offer in these areas.<br><br>⚡ Fun fact:<br>I'm a final-year IT student who enjoys blending creativity with technology, and I'm always excited to learn new things, especially when it comes to emerging tech!
 
 
 ## 🌐 Socials:
