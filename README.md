@@ -1,7 +1,21 @@
-# 💫 About Me:
-<br>🔭 I’m currently working on:<br>Private projects<br>👯 
-I’m looking to collaborate on:
-<br>Web & Software development projects, particularly in front-end, back-end, or full-stack roles.<br><br>🤝 I’m looking for help with:<br>Finding entry-level jobs and internships to kickstart my career in the tech industry.<br><br>🌱 I’m currently learning:<br>software  back-end development with Java, machine learning, and training models, especially in AI.<br><br>💬 Ask me about:<br>My work on web development, AI chatbot development, and the services I can offer in these areas.<br><br>⚡ Fun fact:<br>I'm a final-year IT student who enjoys blending creativity with technology, and I'm always excited to learn new things, especially when it comes to emerging tech!
+💫 About Me:
+🔭 I’m currently working on:
+Building and maintaining full-stack web and mobile applications in a production environment, along with personal and freelance projects.
+👯 I’m looking to collaborate on:
+Full-stack, web, or mobile development projects using modern technologies like React, Next.js, .NET, and REST APIs.
+🤝 I’m looking for help with:
+Growing into a mid-level software engineer role, improving my cloud, DevOps, and system design skills, and exploring impactful opportunities.
+🌱 I’m currently learning:
+Advanced backend development with C# & .NET
+Cloud & DevOps practices (AWS, CI/CD, automation)
+Scalable system design and performance optimization
+💬 Ask me about:
+Full-stack development (React, Next.js, .NET)
+REST API design & authentication (RBAC)
+Debugging, production support & system maintenance
+Building and deploying real-world applications
+⚡ Fun fact:
+I’m a Junior Software Engineer with 1+ year of professional experience, passionate about solving real-world problems, improving system performance, and continuously leveling up my skills.
 
 
 ## 🌐 Socials:
