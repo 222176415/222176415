@@ -2,7 +2,7 @@
 
 Hi there 👋 I'm **Themba Ntimane**, a passionate Junior Software Engineer focused on building scalable, user-focused web and mobile applications.
 
-💼 I have over **1 year of professional experience** working in production environments, contributing to full-stack systems, maintaining applications, debugging runtime issues, supporting deployments, and improving system performance.
+💼 I have over **2 year of professional experience** working in production environments, contributing to full-stack systems, maintaining applications, debugging runtime issues, supporting deployments, and improving system performance.
 
 🚀 I enjoy solving real-world problems through clean architecture, modern development practices, and continuous learning. I'm currently growing toward becoming a strong mid-level engineer with deeper expertise in backend engineering, cloud technologies, DevOps, and scalable systems.
 
